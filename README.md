@@ -37,19 +37,9 @@
 
 ### By the numbers
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farvisun/farvisun/output/profile-night-rainbow.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/farvisun/farvisun/output/profile-season-animate.svg" alt="3D contribution calendar with stars, commits, repositories and languages" />
-</picture>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=farvisun&hide_border=true&background=00000000&ring=D97757&fire=D97757&currStreakNum=D97757&currStreakLabel=D97757&sideNums=7D8590&sideLabels=7D8590&dates=7D8590&stroke=7D859055" alt="GitHub streak" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farvisun/farvisun/output/github-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/farvisun/farvisun/output/github-snake.svg" alt="A snake eating my contribution graph" />
-</picture>
 
 ---
 
