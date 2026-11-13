@@ -1,91 +1,56 @@
-# Hi, I'm Mohammad Askari
+# Mohammad Askari
 
-**Backend & platform engineer · AI agents · Developer tools**
+<a href="https://farvisun.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=D97757&vCenter=true&width=620&height=32&lines=I+make+production+boring+and+tools+fast.;Backend+%26+platform+engineer.;Teaching+AI+agents+to+use+real+tools.;Writing+Go%2C+PHP%2C+Rust+and+Swift+on+purpose." alt="I make production boring and tools fast." />
+</a>
 
-[![Website](https://img.shields.io/badge/farvisun.com-0F172A?style=flat-square&logo=googlechrome&logoColor=white)](https://farvisun.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farvisun/)
-[![GitHub followers](https://img.shields.io/github/followers/farvisun?style=flat-square&logo=github&label=Followers&color=24292F)](https://github.com/farvisun)
-
-I design and run backend platforms for high-traffic products, and build the tools around them: AI agents, internal automation, and fast native apps for developers.
-
-My current focus is practical AI: agents that call real tools, LLM workflows wired into backend services and team processes, and the evaluation and observability that keep them reliable once they ship.
+🔭 &nbsp;**Now:** teaching agents to use real tools, not just talk about them<br>
+🛠️ &nbsp;**Shipping:** [squi](https://github.com/farvisun/squi), [Agentilo](https://github.com/farvisun/agentilo), [NiceDock](https://github.com/farvisun/nicedock)<br>
+🏗️ &nbsp;**Day job:** backend platforms that stay quiet under heavy traffic<br>
+🧠 &nbsp;**Belief:** observability before panic<br>
+☕ &nbsp;**Hobby:** rewriting my daily tools until they open in under 100 ms<br>
+⚡ &nbsp;**Fun fact:** I wrote a terminal to have somewhere nice to run my SQL client
 
 ---
 
-### What I work on
+### Things I made because the existing ones annoyed me
 
-- **Platform engineering:** APIs, queues, caching, service migrations, and scaling production systems.
-- **AI systems:** tool-calling agents, RAG pipelines, embeddings and vector search, and copilots embedded in existing products.
-- **Data & search:** analytics and search infrastructure that makes operations visible.
-- **Developer tooling:** terminals, SQL clients, launchers, and editors built for speed and keyboard-first use.
-- **Engineering leadership:** team structure, ownership, roadmaps, incident process, and delivery health.
+**[squi](https://github.com/farvisun/squi)** · Go — a keyboard-driven SQL client for the terminal. Six databases, works over SSH, and politely refuses to drop your production tables.
 
-### Open-source projects
+**[Motty](https://github.com/farvisun/motty)** · Rust — a GPU-accelerated macOS terminal that treats coding agents as first-class citizens.
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**squi**](https://github.com/farvisun/squi) | Keyboard-driven terminal SQL client for PostgreSQL, MySQL, MariaDB, ClickHouse, SQL Server and SQLite. Works over SSH and is safe on production. | Go |
-| [**Agentilo**](https://github.com/farvisun/agentilo) | Claude Code, Codex and Cursor plan limits, paced against the clock, beside the MacBook notch. Also on [GNOME](https://github.com/farvisun/agentilo-linux). | Swift · JS |
-| [**NiceDock**](https://github.com/farvisun/nicedock) | A second Dock for macOS with 111 live widgets, 10 languages and local-first data. | Swift |
-| [**Motty**](https://github.com/farvisun/motty) | GPU-accelerated macOS terminal with first-class support for coding agents. | Rust |
-| [**Marpora**](https://github.com/farvisun/marpora) | Markdown editor for macOS with live preview, Typora themes, AI, MCP agents and Marp slides. | TypeScript |
-| [**Lumen**](https://github.com/farvisun/gnome-launcher) | Fast, native command launcher for GNOME on Wayland. | Rust · GTK4 |
-| [**Desktop Studio**](https://github.com/farvisun/nome-tweak) | Native GNOME configuration app for Ubuntu with reviewed profiles and checked undo. | Python · GTK4 |
-| [**GNOME top bar widgets**](https://github.com/farvisun/topbar-resource) | System resource and [network traffic](https://github.com/farvisun/topbar-network-indicator) indicators for the GNOME Shell top bar. | JavaScript |
+**[Agentilo](https://github.com/farvisun/agentilo)** · Swift — your Claude Code, Codex and Cursor limits, paced against the clock, living next to the notch. Also on [GNOME](https://github.com/farvisun/agentilo-linux).
 
-Packages are available through [Homebrew](https://github.com/farvisun/homebrew-tap), [Scoop](https://github.com/farvisun/scoop-bucket) and a signed [APT repository](https://github.com/farvisun/apt).
+**[NiceDock](https://github.com/farvisun/nicedock)** · Swift — a second Dock for macOS with 111 live widgets, because one Dock was never enough.
 
-### Tech stack
+**[Marpora](https://github.com/farvisun/marpora)** · TypeScript — a Markdown editor with live preview, AI, MCP agents and slides built in.
 
-**Languages:**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**[Lumen](https://github.com/farvisun/gnome-launcher)** & **[Desktop Studio](https://github.com/farvisun/nome-tweak)** · Rust, Python — a fast launcher and a calm settings app for GNOME, plus a few [top](https://github.com/farvisun/topbar-resource) [bar](https://github.com/farvisun/topbar-network-indicator) widgets.
 
-**Frameworks:**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![GTK](https://img.shields.io/badge/GTK4-7FE719?style=flat-square&logo=gtk&logoColor=black)
+<sub>Install via [Homebrew](https://github.com/farvisun/homebrew-tap), [Scoop](https://github.com/farvisun/scoop-bucket) or [APT](https://github.com/farvisun/apt).</sub>
 
-**AI:**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+### Tools of the trade
 
-**Data & search:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,php,laravel,ts,rust,swift,python,react,vue,mysql,postgres,redis,docker,kubernetes,nginx,linux,grafana,prometheus&perline=9" alt="Go, PHP, Laravel, TypeScript, Rust, Swift, Python, React, Vue, MySQL, PostgreSQL, Redis, Docker, Kubernetes, Nginx, Linux, Grafana, Prometheus" />
 
-**Infrastructure & observability:**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+<sub>Also on speaking terms with ClickHouse, Elasticsearch, Qdrant, RabbitMQ, Claude, OpenAI and MCP.</sub>
 
-### How I build
+### By the numbers
 
-> Keep the critical path boring. Make ownership clear. Add observability before it is needed. Use AI where it removes friction, surfaces context, or helps people make better decisions.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farvisun/farvisun/output/profile-night-rainbow.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/farvisun/farvisun/output/profile-season-animate.svg" alt="3D contribution calendar with stars, commits, repositories and languages" />
+</picture>
 
-### Get in touch
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=farvisun&hide_border=true&background=00000000&ring=D97757&fire=D97757&currStreakNum=D97757&currStreakLabel=D97757&sideNums=7D8590&sideLabels=7D8590&dates=7D8590&stroke=7D859055" alt="GitHub streak" />
+</p>
 
-Open to conversations about platform engineering, AI agents, and developer tools. The best way to reach me is through [farvisun.com](https://farvisun.com) or [LinkedIn](https://www.linkedin.com/in/farvisun/).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farvisun/farvisun/output/github-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/farvisun/farvisun/output/github-snake.svg" alt="A snake eating my contribution graph" />
+</picture>
+
+---
+
+<sub>Say hi at [farvisun.com](https://farvisun.com) or on [LinkedIn](https://www.linkedin.com/in/farvisun/). I reply faster than my CI pipelines.</sub>
